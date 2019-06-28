@@ -1,5 +1,5 @@
 # largefinco
-my new project
+my new project, created in Canada
 
 Based on seed project `spring-team:spring-rest-seed`
 
